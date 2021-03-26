@@ -1,5 +1,7 @@
 # non-maximum-supression-implementation
 
+<br>
+
 ## NMS without class
 
 TODO
@@ -45,3 +47,11 @@ TODO
 TODO
 
 <br><br>
+
+# Reference
+
+<br>
+
+- https://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/
+- https://github.com/OneDirection9/soft-nms/blob/master/py_nms.py
+- https://arxiv.org/pdf/1704.04503.pdf
