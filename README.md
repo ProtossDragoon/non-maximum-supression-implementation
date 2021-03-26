@@ -1,4 +1,4 @@
-# non-maximum-supression-implementation
+# non-maximum supression implementation
 
 <br>
 
