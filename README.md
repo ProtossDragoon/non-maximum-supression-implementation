@@ -30,7 +30,7 @@ usage : real time
 
 <br>
 
-- `ipython notebook` : https://github.com/ProtossDragoon/non-maximum-supression-implementation/blob/main/NMS_with_class_numpy.ipynb
+- [`ipython notebook`](https://github.com/ProtossDragoon/non-maximum-supression-implementation/blob/main/NMS_with_class_numpy.ipynb)
 - `.py`
 
 <br>
