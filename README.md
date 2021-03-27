@@ -59,4 +59,8 @@ TODO
 
 - https://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/
 - https://github.com/OneDirection9/soft-nms/blob/master/py_nms.py
+- [tf1 api with class](https://www.tensorflow.org/versions/r1.15/api_docs/python/tf/image/combined_non_max_suppression)
+- [tf2 api with class](https://www.tensorflow.org/api_docs/python/tf/image/combined_non_max_suppression)
+- [tf1 api without class](https://www.tensorflow.org/versions/r1.15/api_docs/python/tf/image/non_max_suppression)
+- [tf2 api without class](https://www.tensorflow.org/api_docs/python/tf/image/non_max_suppression)
 - https://arxiv.org/pdf/1704.04503.pdf
