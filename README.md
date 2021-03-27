@@ -2,6 +2,10 @@
 
 <br>
 
+![img](NMS_with_class_numpy.png)
+
+<br>
+
 ## NMS without class
 
 TODO
@@ -26,7 +30,8 @@ usage : real time
 
 <br>
 
-![img](NMS_with_class_numpy.png)
+- `ipython notebook` : https://github.com/ProtossDragoon/non-maximum-supression-implementation/blob/main/NMS_with_class_numpy.ipynb
+- `.py`
 
 <br>
 
